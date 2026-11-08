@@ -16,7 +16,7 @@ Second-year CSE student at **VIT Vellore**. I build games in Unity and C#, and m
 - **Engine and networking:** Unity (2D/3D, NavMesh, physics), Mirror
 - **Languages:** C#, C++, C, Java, TypeScript, Python
 - **Art tools:** Blender, Aseprite
-- **Other:** Git/GitHub, React, rapid prototyping
+
 
 ## Find me
 
